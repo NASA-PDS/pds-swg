@@ -2,7 +2,7 @@
 name: PDS Release Change Request
 about: Change request for changes to release plan
 title: "[CR] Defer / Add Tasks to Release Plan"
-labels: change-request, B11.1
+labels: B12.0, change-request
 assignees: ''
 
 ---
